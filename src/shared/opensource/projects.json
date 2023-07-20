@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "id": "1",
       "name": "Sorting-Visualizer-react",
       "createdAt": "2021-03-06T16:26:54Z",
       "url": "https://bhishek-sorting-visualizer-react.netlify.app/",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
+      "id": "2",
       "name": "react-location-weather",
       "createdAt": "2023-01-06T14:50:20Z",
       "url": "https://bhishek-location-weather-app.netlify.app/",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "id": "3",
       "name": "BookBank-CSS Styling",
       "createdAt": "2021-01-06T06:36:41Z",
       "url": "https://bhishek2143.github.io/BookBank-main/",
@@ -79,25 +79,13 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "id": "4",
       "name": "Institute-Website & App",
       "createdAt": "2021-01-06T08:31:51Z",
       "url": "https://gitlab.com/shikshahub",
-      "description": "🚀 Maintanence and Management of the Website as well as Mobile Application, Shiksha - The Education Hub, Learning Institute since my Pre - Matric. Connecting Database created with the website to the App so that records for all the students gets reflected and changed accordingly. Frequent updates to the users(parents) about the Assignments, Attendence and Class Tests.",
+      "description": "🌀 Maintanence and Management of the Website as well as Mobile Application, Shiksha - The Education Hub, Learning Institute since my Pre - Matric. Connecting Database created with the website to the App so that records for all the students gets reflected and changed accordingly. Frequent updates to the users(parents) about the Assignments, Attendence and Class Tests.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
         {
           "name": "Flutter",
           "iconifyClass": "logos-flutter"
@@ -111,16 +99,36 @@
           "iconifyClass": "logos-xampp"
         },
         {
-          "name": "Android",
-          "iconifyClass": "logos-android"
-        },
-        {
           "name": "Gitlab",
           "iconifyClass": "logos-gitlab"
-        },
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Tic Tac Toe",
+      "createdAt": "2020-09-09T06:36:41Z",
+      "url": "https://github.com/Bhishek2143/Tic-Tac-Toe",
+      "description": "🚀  Excluding the AI decisive feature for 1-Player gameplay with CPU, its a 2-Player Game for multi-users with logics based on the binary language.",
+      "isFork": false,
+      "languages": [
         {
-          "name": "Firebase",
-          "iconifyClass": "logos-firebase"
+          "name": "C++",
+          "iconifyClass": "c++-logo-1.png"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "KBC",
+      "createdAt": "2021-07-18T06:36:41Z",
+      "url": "https://github.com/Bhishek2143/KBC",
+      "description": "🔥  Graphic component based C++ UI similar to the real KBC on the Computer Screen with decent knowledgable questions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "c++-logo-1.png"
         }
       ]
     }
