@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An ambitious Full Stack Web Developer, love doing Workout & living healthy, have a competitive spirit for coding related to all DS & Algorithms applying logics, AI, and data structures in solving real - world problems.",
   resumeLink:
-    "https://drive.google.com/file/d/13b-AfWeccv9bE5RhsavXoTvUWntx8POU/view?usp=sharing",
+    "https://drive.google.com/file/d/13b-AfWeccv9bE5RhsavXoTvUWntx8POU/view?usp=drive_link",
   portfolio_repository: "https://github.com/Bhishek2143/portfolio",
   githubProfile: "https://github.com/Bhishek2143",
 };
